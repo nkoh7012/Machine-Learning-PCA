@@ -5,4 +5,4 @@ This project was originally done to fulfill the completion of MATH490 at Towson 
 2) Why is PCA effective when analyzing large datasets with many variables?
 3) What results can we share once we apply dimension reduction to the dataset?
 
-Throughout the project, you will find that we did not provide many definitions since we went with the assumption that the average person reading this will have a basic understanding of linear algebra. All credit is located in the Google Colab file that was uploaded into this repository.
+Throughout the project, you will find that we did not provide many definitions since we went with the assumption that the average person reading this will have a basic understanding of linear algebra. All credit is located in the .ipynb file attached to this repository.
